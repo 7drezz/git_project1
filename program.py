@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('It is new line')
+    print('It is new line!!')
 
 
 def main():
